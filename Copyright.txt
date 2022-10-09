@@ -1,0 +1,21 @@
+DP_for_GNIO (version 1.0.0):  
+C/C++ implementations of the dynamic programming algorithm for solving $\ell_1$-GNIO and $\ell_2$-GNIO problems.
+   Copyright © 2021 by 
+Xuyu Chen and Xudong Li
+
+The source code 'l1gnio.cpp' and 'l2gnio.c' are distributed under the GNU General Public License v3.  
+For commercial applications that may be incompatible with this license,  https://github.com/PupuGod/DP-for-GNIO/blob/main/LICENSE.txt
+please contact the authors to discuss alternatives. 
+ 
+ 
+ This software is free software; you can redistribute it and/or 
+ modify it under the terms of the GNU General Public License v3 
+ as published by the Free Software Foundation Inc.,  
+ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA. 
+   This program is distributed in the hope that it will be useful, 
+ but WITHOUT ANY WARRANTY; without even the implied warranty of 
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the 
+ GNU General Public License for more details. 
+
+ 
+ 
