@@ -43,7 +43,7 @@ To use the software, please
 
 If you find the software DP_for_GNIO
 useful, please cite it in your publication as follows:
-*Zhensheng Yu, Xuyu Chen, and Xudong Li, A dynamic programming approach for generalized nearly isotonic optimization, Mathematical Programming Computation, in print 2022*
+*Zhensheng Yu, Xuyu Chen, and Xudong Li, A dynamic programming approach for generalized nearly isotonic optimization, Mathematical Programming Computation, in print, 2022*
 
 
 For any other questions, please contact chenxy18@fudan.edu.cn. 
